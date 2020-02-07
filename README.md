@@ -13,7 +13,7 @@ area of work as the previous lab; _however_, _how_ we call and use functions
 will change with our new knowledge. While the code will stay _mostly_ the same,
 you're going to need to use `this` a lot more.
 
-The tests guide you to implementing a time card system: when someone enters the
+The tests guide you to implementing a time card ssteym: when someone enters the
 company's state of the art technical office, the employee has to insert their
 card in a time-clock which will record the time they came in. When it's time to
 leave, the employee will "punch out."
